@@ -8,7 +8,7 @@
  <br/>
  <br/>
  
-  ####  :clipboard: Language
+  ####  📖 Language
   
  <br/>
 
@@ -17,11 +17,12 @@
 <img src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python&logoColor=4b8bbe"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> </ br>
 
 
 
-  ####  :clipboard: Tech Stack
+
+  ####  🛠️ Tech Stack
 
 ![react](https://img.shields.io/badge/react-1b214a?style=for-the-badge&logo=React&logoColor=skyblue)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-6cc24a?style=for-the-badge&logo=Node.js&logoColor=white)
@@ -30,4 +31,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=Firebase&logoColor=white)<br />
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-E8EAF6?style=for-the-badge&logo=Mui&logoColor=#E8EAF6)
 ![VSCODE](https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=White)
- <br/>
+<br/>
+<br/>
+<br/>
+
+
+ [![jspark9708's GitHub stats](https://github-readme-stats.vercel.app/api?username=jspark9708)](https://github.com/jspark9708/github-readme-stats)
